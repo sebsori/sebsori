@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sebsori
+- 👀 I’m interested in creating responsive content that's user-friendly and (if possible) state of the art
+- 🌱 I’m currently learning Python, JS and a lot of other things.
+- I'm studying in geospatial sciences and want to establish a solid foundation of knowledge
